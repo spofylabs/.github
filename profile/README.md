@@ -1,6 +1,6 @@
-# SpofyLabs - Digital Studio
+# Spofylabs
 
-SpofyLabs is a digital studio dedicated to transforming innovative ideas into real, market-ready products. We partner with startups, small businesses, and creators to bring their vision to life through strategic development and thoughtful execution.
+Spofylabs is a product studio dedicated to transforming innovative ideas into real, market-ready products. We partner with startups, small businesses, and creators to bring their vision to life through strategic development and thoughtful execution.
 
 ## What We Do
 
@@ -50,4 +50,4 @@ We're always interested in exploring new opportunities and partnerships.
 
 ---
 
-SpofyLabs transforms vision into reality through thoughtful digital product development.
+Spofylabs transforms vision into reality through thoughtful digital product development.
